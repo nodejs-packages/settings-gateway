@@ -1,0 +1,21 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"alwaysStrict": true,
+		"lib": ["esnext"],
+		"strict": true,
+		"module": "commonjs",
+		"noUnusedParameters": true,
+		"outDir": "./dist",
+		"sourceMap": true,
+		"types": ["node", "discord.js", "klasa"],
+		"declaration": true,
+		"declarationMap": true,
+		"noUnusedLocals": true,
+		"removeComments": false,
+		"target": "esnext"
+	},
+	"include": [
+		"src"
+	]
+}

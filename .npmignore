@@ -1,0 +1,10 @@
+# .npmignore
+.github/
+coverage/
+node_modules/
+src/
+test/
+.eslintrc.json
+package-lock.json
+tsconfig.json
+yarn.lock
