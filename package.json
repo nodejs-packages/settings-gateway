@@ -21,7 +21,7 @@
     "node": ">=10.1.0"
   },
   "peerDependencies": {
-    "klasa": "github:nodejs-packages/klasa#settings"
+    "klasa": "dirigeants/klasa"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
@@ -30,10 +30,10 @@
     "@typescript-eslint/eslint-plugin": "^2.31.0",
     "@typescript-eslint/parser": "^2.31.0",
     "ava": "^3.8.2",
-    "discord.js": "github:discordjs/discord.js#master",
+    "discord.js": "discordjs/discord.js",
     "eslint": "^6.8.0",
     "eslint-config-klasa": "dirigeants/klasa-lint",
-    "klasa": "github:nodejs-packages/klasa#settings",
+    "klasa": "dirigeants/klasa#875/head",
     "nyc": "^15.0.1",
     "source-map-support": "^0.5.18",
     "ts-node": "^8.10.1",
